@@ -1,6 +1,5 @@
 <table>
   <tr>
-  
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
@@ -25,9 +24,6 @@
       </a>
       <br>Sass
     </td>
-  </tr>
-  <tr>
-   #for second row
   </tr>
 </table>
 
