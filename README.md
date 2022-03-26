@@ -2,13 +2,13 @@
   <tr >
     <td   align="center" width="96">
       <a href="#">
-        <img src="./img/html.png" width="48" height="48" alt="JavaScript" />
+        <img src="./img/html.png" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td   align="center" width="96">
       <a href="#">
-        <img src="./img/css.png" width="48" height="48" alt="JavaScript" />
+        <img src="./img/css.png" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
@@ -20,7 +20,7 @@
     </td>
     <td   align="center" width="96">
       <a href="#">
-        <img src="./img/node-js.png" width="64" height="64" alt="JavaScript" />
+        <img src="./img/node-js.png" width="48" height="48" alt="NodeJS" />
       </a>
       <br>NodeJS
     </td>
