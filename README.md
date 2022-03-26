@@ -1,10 +1,28 @@
 <table border="2px" >
-  <tr   >
+  <tr >
+    <td   align="center" width="96">
+      <a href="#">
+        <img src="./img/html.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>HTML
+    </td>
+    <td   align="center" width="96">
+      <a href="#">
+        <img src="./img/css.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>CSS
+    </td>
     <td   align="center" width="96">
       <a href="#">
         <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
+    </td>
+    <td   align="center" width="96">
+      <a href="#">
+        <img src="./img/node-js.png" width="64" height="64" alt="JavaScript" />
+      </a>
+      <br>NodeJS
     </td>
     <td align="center" width="96">
       <a href="#" >
