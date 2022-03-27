@@ -35,6 +35,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Z-index in Grid Layout](https://medium.com/@berkaycrk/z-index-in-grid-layout-f6edf9648ea2?source=rss-1ca17d37dc3f------2)
 <!-- BLOG-POST-LIST:END -->
 
 
