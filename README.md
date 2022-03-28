@@ -17,13 +17,12 @@
     ⚡ Always ready to collaborate for projects and communities  <br>
     🎯 Motivated to be a good Frontend Developer  
   </p>
-  
 </div>
+
+<!--Arrow Gif-->
 <div align="center"><img  src="https://user-images.githubusercontent.com/81809211/160306760-30a703a6-0404-49d2-aac3-9afe9c3f76ab.gif" width=75 /></div>
 
-
 <!--Technologies -->
-<div>
   <h2 align="center">Languages & Tools</h2>
   <br>
   <p align="center">
@@ -35,24 +34,28 @@
     <img src="./img/bootstrap-plain.svg" width="56"  alt="Bootstrap" />
     <img src="./img/sass-original.svg" width="56"  alt="Sass" />
   </p>
-</div>  
+  
+<!--Arrow Gif-->
 <div align="center"><img  src="https://user-images.githubusercontent.com/81809211/160306760-30a703a6-0404-49d2-aac3-9afe9c3f76ab.gif" width=75 /></div>
-<h2 align ="center">My Blogs</h2>
+
+<!--Stats-->
+
+<h2>Stats</h2>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaycirak&show_icons=true&theme=dracula)](https://github.com/berkaycirak/github-readme-stats)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaycirak&theme=dracula&card_width=400)](https://github.com/berkaycirak/github-readme-stats)
+
+<!--Blogs-->
+
+<h2 align="center">My Blogs</h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [Z-index in Grid Layout](https://medium.com/@berkaycrk/z-index-in-grid-layout-f6edf9648ea2?source=rss-1ca17d37dc3f------2)
 <!-- BLOG-POST-LIST:END -->
 
- 
-<div align="center"><img  src="https://user-images.githubusercontent.com/81809211/160306760-30a703a6-0404-49d2-aac3-9afe9c3f76ab.gif" width=75 /></div>
-<h2 align ="center">Stats</h2>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaycirak&show_icons=true&theme=dracula)](https://github.com/berkaycirak/github-readme-stats)
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaycirak&theme=dracula&card_width=400)](https://github.com/berkaycirak/github-readme-stats)
 <hr>
 
-
-
+<!--Visitor Counter-->
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=berkaycirak&color=blueviolet&label=VISITORS" /> </div>
 
 
