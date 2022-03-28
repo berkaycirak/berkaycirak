@@ -1,8 +1,8 @@
 <!--Cover -->
 
 <div align="center">
-  <img  src="https://user-images.githubusercontent.com/81809211/160309111-b8ebb5d1-7a20-4a96-91af-293519c0d5db.gif" width=800 />
-  <img  src="https://user-images.githubusercontent.com/81809211/160301906-0190a3c9-3bb2-45fc-85ba-25f06f1aed66.gif" />
+  <img  src="https://user-images.githubusercontent.com/81809211/160313310-d13df468-0e79-4b47-8c4b-531632fb2e63.gif" alt="transparent-welcome" />
+  <img  src="https://user-images.githubusercontent.com/81809211/160301906-0190a3c9-3bb2-45fc-85ba-25f06f1aed66.gif" alt="coder" />
   <br><br>
   <!--Social Media -->
   <p align="center">
@@ -21,7 +21,7 @@
 </div>
 
 <!--Arrow Gif-->
-<div align="center"><img  src="https://user-images.githubusercontent.com/81809211/160306760-30a703a6-0404-49d2-aac3-9afe9c3f76ab.gif" width=75 /></div>
+<div align="center"><img  src="https://user-images.githubusercontent.com/81809211/160311979-bf92eff5-baf1-41c2-93e8-6097a97d0719.gif" alt="transparent-arrow" width=75 /></div>
 
 <!--Technologies -->
   <h2 align="center">Languages & Tools</h2>
@@ -37,7 +37,10 @@
   </p>
   
 <!--Arrow Gif-->
-<div align="center"><img  src="https://user-images.githubusercontent.com/81809211/160306760-30a703a6-0404-49d2-aac3-9afe9c3f76ab.gif" width=75 /></div>
+<div align="center"><img  src="https://user-images.githubusercontent.com/81809211/160311979-bf92eff5-baf1-41c2-93e8-6097a97d0719.gif" alt="transparent-arrow" width=75 /></div>
+
+
+
 
 <!--Stats-->
 
