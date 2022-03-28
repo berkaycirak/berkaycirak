@@ -55,6 +55,7 @@
 <h2 align="center">My Blogs</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Is “Angela Yu: Web Development Bootcamp 2022” worth for beginners ?](https://medium.com/@berkaycrk/is-angela-yu-web-development-bootcamp-2022-worth-for-beginners-a84a73cd15ea?source=rss-1ca17d37dc3f------2)
 - [Z-index in Grid Layout](https://medium.com/@berkaycrk/z-index-in-grid-layout-f6edf9648ea2?source=rss-1ca17d37dc3f------2)
 <!-- BLOG-POST-LIST:END -->
 
