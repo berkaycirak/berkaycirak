@@ -1,7 +1,7 @@
 <!--Cover -->
 
 <div align="center">
-  <img  src="https://user-images.githubusercontent.com/81809211/160309111-b8ebb5d1-7a20-4a96-91af-293519c0d5db.gif" />
+  <img  src="https://user-images.githubusercontent.com/81809211/160309111-b8ebb5d1-7a20-4a96-91af-293519c0d5db.gif" width=800 />
   <img  src="https://user-images.githubusercontent.com/81809211/160301906-0190a3c9-3bb2-45fc-85ba-25f06f1aed66.gif" />
   <!--Social Media -->
   <p align="center">
