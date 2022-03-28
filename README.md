@@ -3,13 +3,14 @@
 <div align="center">
   <img  src="https://user-images.githubusercontent.com/81809211/160309111-b8ebb5d1-7a20-4a96-91af-293519c0d5db.gif" width=800 />
   <img  src="https://user-images.githubusercontent.com/81809211/160301906-0190a3c9-3bb2-45fc-85ba-25f06f1aed66.gif" />
+  <br><br>
   <!--Social Media -->
   <p align="center">
     <img src="./img/Instagram.svg" width="36"  alt="Instagram" />
     <img src="./img/twitter-original.svg" width="36"  alt="Twitter" />
     <img src="./img/linkedin-original.svg" width="36" alt="Linkedin" />
   </p> 
- <br><br>
+ <br>
   <h2>About Me</h2>
   <br>
   <p><strong>Hello everyone, I'm Berkay- 24 y/o Turkish coder. <br><br>
