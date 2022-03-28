@@ -42,8 +42,8 @@
 
 <h2 align="center">Stats</h2>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaycirak&show_icons=true&theme=dracula)](https://github.com/berkaycirak/github-readme-stats)
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaycirak&theme=dracula&card_width=400)](https://github.com/berkaycirak/github-readme-stats)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaycirak&show_icons=true&theme=dracula)](https://github.com/berkaycirak/github-readme-stats)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaycirak&theme=dracula&card_width=400)](https://github.com/berkaycirak/github-readme-stats)
 
 <!--Blogs-->
 
