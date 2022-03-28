@@ -2,7 +2,7 @@
 
 <div align="center">
   <img  src="https://user-images.githubusercontent.com/81809211/160313310-d13df468-0e79-4b47-8c4b-531632fb2e63.gif" alt="transparent-welcome" />
-  <img  src="https://user-images.githubusercontent.com/81809211/160313931-dcf2e5a1-fcb1-4260-9b99-8a43a95b76b4.gif" alt="coder" height=500 />
+  <img  src="https://user-images.githubusercontent.com/81809211/160313931-dcf2e5a1-fcb1-4260-9b99-8a43a95b76b4.gif" alt="transparent-coder" height=500 />
   <br><br>
   <!--Social Media -->
   <p align="center">
