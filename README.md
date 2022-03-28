@@ -6,9 +6,9 @@
   <br><br>
   <!--Social Media -->
   <p align="center">
-    <img src="./img/Instagram.svg" width="36"  alt="Instagram" />
-    <img src="./img/twitter-original.svg" width="36"  alt="Twitter" />
-    <img src="./img/linkedin-original.svg" width="36" alt="Linkedin" />
+    <img href="https://www.instagram.com/berkay.crk/"src="./img/Instagram.svg" width="36"  alt="Instagram" />
+    <img href="https://twitter.com/berkaycirak" src="./img/twitter-original.svg" width="36"  alt="Twitter" />
+    <img href="https://www.linkedin.com/in/berkaycrk/"src="./img/linkedin-original.svg" width="36" alt="Linkedin" />
   </p> 
  <br>
   <h2>About Me</h2>
