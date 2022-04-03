@@ -34,6 +34,8 @@
     <img src="./img/react-original.svg" width="56"  alt="React" />
     <img src="./img/bootstrap-plain.svg" width="56"  alt="Bootstrap" />
     <img src="./img/sass-original.svg" width="56"  alt="Sass" />
+    <img src="./img/git.svg" width="56"  alt="Git" />
+   
   </p>
   
 <!--Arrow Gif-->
