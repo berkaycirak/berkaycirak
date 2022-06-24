@@ -35,7 +35,11 @@
     <img src="./img/bootstrap-plain.svg" width="56"  alt="Bootstrap" />
     <img src="./img/sass-original.svg" width="56"  alt="Sass" />
     <img src="./img/git.svg" width="56"  alt="Git" />
-   
+    <img src="./img/firebase.svg" width="48"  alt="Firebase" />
+    <img src="./img/tailwind.svg" width="56"  alt="Tailwind" />
+    <img src="./img/styled-components.svg" width="56"  alt="StyledComponents" />
+  
+
   </p>
   
 <!--Arrow Gif-->
