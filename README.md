@@ -37,7 +37,7 @@
     <img src="./img/git.svg" width="56"  alt="Git" />
     <img src="./img/firebase.svg" width="48"  alt="Firebase" />
     <img src="./img/tailwind.svg" width="56"  alt="Tailwind" />
-    <img src="./img/styled-components.svg" width="56"  alt="StyledComponents" />
+    <img src="./img/styled-components.png" width="56"  alt="StyledComponents" />
   
 
   </p>
