@@ -14,7 +14,7 @@
   <h2>About Me</h2>
   <br>
   <p><strong>Hello everyone, I'm Berkay- 24 y/o Turkish coder. <br><br>
-    📚 Currently learning HTML, CSS, Javascript & React</li> <br>
+    📚 Currently learning Frontend and Web3 Technologies</li> <br>
     ⚡ Always ready to collaborate for projects and communities  <br>
     🎯 Motivated to be a good Frontend Developer  
   </p>
