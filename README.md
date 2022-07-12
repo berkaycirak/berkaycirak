@@ -6,6 +6,7 @@
   <br><br>
   <!--Social Media -->
   <p align="center">
+  
     <a href="https://www.instagram.com/berkay.crk/" target="_blank"><img src="./img/Instagram.svg" width="36" alt="Instagram"/><a/>
     <a href="https://twitter.com/berkaycirak" target="_blank"><img src="./img/twitter-original.svg" width="36"  alt="Twitter" /><a/>
     <a href="https://www.linkedin.com/in/berkaycrk/" target="_blank"><img src="./img/linkedin-original.svg" width="36" alt="Linkedin" /><a/>
