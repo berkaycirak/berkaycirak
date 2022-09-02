@@ -17,7 +17,7 @@
 <br><br>
     📚 Currently learning Web3 and Frontend Technologies</li> <br>
     ⚡ Always ready to collaborate for projects and communities  <br>
-    🎯 Motivated to be a good Frontend Developer   
+    🎯 Motivated to be a good Frontend and Web3 Developer   
   </p>
 </div>
 
