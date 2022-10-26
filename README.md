@@ -30,15 +30,16 @@
     <img src="./img/html.png" width="64"  alt="HTML" />
     <img src="./img/css.png" width="48"  alt="CSS" />
     <img src="./img/javascript-original.svg" width="56" alt="JavaScript" />
-    <img src="./img/Node.js.svg" width="80"  alt="NodeJS" />
     <img src="./img/react-original.svg" width="56"  alt="React" />
+    <img src="./img/ts.svg" width="56"  alt="TypeScript" />
+    <img src="./img/Node.js.svg" width="80"  alt="NodeJS" />
     <img src="./img/bootstrap-plain.svg" width="56"  alt="Bootstrap" />
     <img src="./img/sass-original.svg" width="56"  alt="Sass" />
     <img src="./img/git.svg" width="56"  alt="Git" />
     <img src="./img/firebase.svg" width="48"  alt="Firebase" />
     <img src="./img/tailwind.svg" width="56"  alt="Tailwind" />
     <img src="./img/styled-component.png" width="56"  alt="StyledComponents" />
-    <img src="./img/ts.svg" width="56"  alt="TypeScript" />
+
   
 
   </p>
