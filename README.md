@@ -39,6 +39,7 @@
     <img src="./img/firebase.svg" width="48"  alt="Firebase" />
     <img src="./img/tailwind.svg" width="56"  alt="Tailwind" />
     <img src="./img/styled-component.png" width="56"  alt="StyledComponents" />
+    <img src="./img/next.png" width="56"  alt="Nextjs" />
 
   
 
