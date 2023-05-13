@@ -16,7 +16,7 @@
   <p><strong>Hello everyone, I'm Berkay- 25 y/o Turkish coder. <br><br>
     📚 Currently learning Web Technologies</li> <br>
     ⚡ Always ready to collaborate for modern projects and communities | Next.js stacks preferred   <br>
-    🎯 Motivated to be a good and modern Web Developer   
+    🎯 Motivated to be a good and modernist Web Developer   
   </p>
 </div>
 
