@@ -20,8 +20,8 @@
 ## ⚙️ Technologies & Languages
 
 I'm a versatile fullstack engineer, but here is my current stack:
-- **Languages:** JavaScript, TypeScript, Rust
-- **Frameworks:** React, Next.js, Anchor
+- **Languages:** JavaScript, TypeScript, Rust 🦀
+- **Frameworks:** React, Next.js, Anchor ⚓
 - I use Any Database (I like MongoDB), and AWS
 >[!NOTE]
 > For **_AI Driven Development_**, I prefer using **Cursor** and **Claude** mostly, but giving a shot for **ChatGPT** also
