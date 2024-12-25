@@ -9,7 +9,7 @@
   
  🛠️ Currently working as `Solana Blockchain Engineer`
 
- 🔖 I have a solid experience on Web3 Frontend Development 
+ 🔖 I have a solid experience on Web3 Frontend Development
 
  🎯 I love to dive deep into techs, and sharing my tech journey on [Blog](https://www.berkaycirak.online/articles) and [YouTube](https://www.youtube.com/@KindaDev) channel
   
